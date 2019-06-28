@@ -1,0 +1,862 @@
+﻿The Blind Banker
+
+SOO LIN: The great artisans say the more the teapot is used, the more beautiful it becomes. The pot is seasoned by repeatedly pouring tea over the surface. The deposit left on the clay creates this beautiful patina over time. For some pots, the clay has been burnished by tea made over four hundred years ago. 
+
+TANNOY ANNOUNCEMENT: This museum will be closing in ten minutes. 
+ANDY: Four hundred years old, and they’re lettin’ you use it to make yourself a brew! 
+SOO LIN: Some things aren’t supposed to sit behind glass. They’re made to be touched; to be handled. These pots need attention. The clay is cracking. 
+ANDY: Well, I can’t see how a tiny splash of tea’s gonna help. 
+SOO LIN: Sometimes you have to look hard at something to see its value. 
+SOO LIN: See? This one shines a little brighter. 
+ANDY: I don’t suppose ... um, I mean, I don’t suppose that you ... you wanna have a drink? Not tea, obviously. Um, in a pub, with me, tonight ... umm. 
+SOO LIN: You wouldn’t like me all that much. 
+ANDY: Couldn’t I maybe decide that for myself? 
+SOO LIN: I can’t. I’m sorry. Please stop asking. 
+
+SOO LIN: Is that Security? Hello? 
+
+AUTOMATED VOICE: Unexpected item in bagging area. Please try again. 
+
+AUTOMATED VOICE: Item not scanned. Please try again. 
+JOHN: D’you think you could keep your voice down? 
+
+AUTOMATED VOICE: Card not authorised. Please use an alternative method of payment. 
+JOHN: Yes, all right! I’ve got it! 
+AUTOMATED VOICE: Card not authorised. Please use an alternative method of payment. 
+JOHN: Got nothing. Right, keep it. Keep that. 
+
+SHERLOCK: Look! 
+
+SHERLOCK: You took your time. 
+JOHN: Yeah, I didn’t get the shopping. 
+SHERLOCK: What? Why not? 
+JOHN: Because I had a row, in the shop, with a chip-and-PIN machine. 
+SHERLOCK: You ... you had a row with a machine? 
+JOHN: Sort of. It sat there and I shouted abuse. Have you got cash? 
+SHERLOCK: Take my card. 
+JOHN: You could always go yourself, you know. You’ve been sitting there all morning. You’ve not even moved since I left. And what happened about that case you were offered – the Jaria Diamond? 
+SHERLOCK: Not interested. I sent them a message. 
+JOHN: Ugh, Holmes. 
+
+JOHN: Don’t worry about me. I can manage. Is that my computer? 
+SHERLOCK: Of course. 
+JOHN: What?! 
+SHERLOCK: Mine was in the bedroom. 
+JOHN: What, and you couldn’t be bothered to get up? It’s password protected! 
+SHERLOCK: In a manner of speaking. Took me less than a minute to guess yours. Not exactly Fort Knox. 
+JOHN: Right, thank you. Oh. Need to get a job. 
+SHERLOCK: Oh, dull. 
+JOHN: Listen, um ... if you’d be able to lend me some ... Sherlock, are you listening? 
+SHERLOCK: I need to go to the bank. 
+
+JOHN: Yes, when you said we were going to the bank ... 
+SHERLOCK: Sherlock Holmes. 
+
+SEBASTIAN: Sherlock Holmes. 
+SHERLOCK: Sebastian. 
+SEBASTIAN: Howdy, buddy. How long’s it been? Eight years since I last clapped eyes on you? 
+SHERLOCK: This is my friend, John Watson. 
+SEBASTIAN: Friend? 
+JOHN: Colleague. 
+SEBASTIAN: Right. Right. Well, grab a pew. D’you need anything? Coffee, water? 
+JOHN: No. 
+SEBASTIAN: No? We’re all sorted here, thanks. 
+SHERLOCK: So, you’re doing well. You’ve been abroad a lot. 
+SEBASTIAN: Well, some. 
+SHERLOCK: Flying all the way round the world twice in a month? 
+SEBASTIAN: Right. You’re doing that thing. We were at uni together. This guy here had a trick he used to do. 
+SHERLOCK: It’s not a trick. 
+SEBASTIAN: He could look at you and tell you your whole life story. 
+JOHN: Yes, I’ve seen him do it. 
+SEBASTIAN: Put the wind up everybody. We hated him. You’d come down to breakfast in the Formal Hall and this freak would know you’d been shagging the previous night. 
+SHERLOCK: I simply observed. 
+SEBASTIAN: Go on, enlighten me. Two trips a month, flying all the way around the world – you’re quite right. How could you tell? You’re gonna tell me there was, um, a stain on my tie from some special kind of ketchup you can only buy in Manhattan. 
+SHERLOCK: No, I ... 
+SEBASTIAN: Maybe it was the mud on my shoes! 
+SHERLOCK: I was just chatting with your secretary outside. She told me. 
+SEBASTIAN: I’m glad you could make it over. We’ve had a break-in. Sir William’s office – the bank’s former Chairman. The room’s been left here like a sort of memorial. Someone broke in late last night. 
+JOHN: What did they steal? 
+SEBASTIAN: Nothing. Just left a little message. Sixty seconds apart. So, someone came up here in the middle of the night, splashed paint around, then left within a minute. 
+SHERLOCK: How many ways into that office? 
+SEBASTIAN: Well, that’s where this gets really interesting. 
+
+SEBASTIAN: Every door that opens in this bank, it gets logged right here. Every walk-in cupboard, every toilet. 
+SHERLOCK: That door didn’t open last night. 
+SEBASTIAN: There’s a hole in our security. Find it and we’ll pay you – five figures. This is an advance. Tell me how he got in, there’s a bigger one on its way. 
+SHERLOCK: I don’t need an incentive, Sebastian. 
+JOHN: He’s, uh, he’s kidding you, obviously. Sh-shall I look after that for him? Thanks. 
+
+JOHN: Two trips around the world this month. You didn’t ask his secretary; you said that just to irritate him. How did you know? 
+SHERLOCK: Did you see his watch? 
+JOHN: His watch? 
+SHERLOCK: The time was right but the date was wrong. Said two days ago. Crossed the dateline twice but he didn’t alter it. 
+JOHN: Within a month? How’d you get that part? 
+SHERLOCK: New Breitling. Only came out this February. 
+JOHN: Okay. So d’you think we should sniff around here for a bit longer? 
+SHERLOCK: Got everything I need to know already, thanks. 
+JOHN: Hmm? 
+SHERLOCK: That graffiti was a message for someone at the bank working on the trading floors. We find the intended recipient and ... 
+JOHN: ... they’ll lead us to the person who sent it. 
+SHERLOCK: Obvious. 
+JOHN: Well, there’s three hundred people up there. Who was it meant for? 
+SHERLOCK: Pillars. 
+JOHN: What? 
+SHERLOCK: Pillars and the screens. Very few places you can see that graffiti from. That narrows the field considerably. And of course the message was left at eleven thirty-four last night. That tells us a lot. 
+JOHN: Does it? 
+SHERLOCK: Traders come to work at all hours. Some trade with Hong Kong in the middle of the night. That message was intended for someone who came in at midnight. Not many Van Coons in the phonebook. Taxi! 
+
+JOHN: So what do we do now? Sit here and wait for him to come back? 
+SHERLOCK: Just moved in. 
+JOHN: What? 
+SHERLOCK: The floor above. New label. 
+JOHN: Could have just replaced it. 
+SHERLOCK: No-one ever does that. 
+MS WINTLE: Hello? 
+SHERLOCK: Hi! Um, I live in the flat just below you. I-I don’t think we’ve met. 
+MS WINTLE: No, well, uh, I’ve just moved in. 
+SHERLOCK: Actually, I’ve just locked my keys in my flat. 
+MS WINTLE: D’you want me to buzz you in? 
+SHERLOCK: Yeah. And can I use your balcony? 
+MS WINTLE: What? 
+
+JOHN: Sherlock. Sherlock, are you okay? Yeah, any time you feel like letting me in. 
+
+JOHN: D’you think he’d lost a lot of money? I mean, suicide is pretty common among City boys. 
+SHERLOCK: We don’t know that it was suicide. 
+JOHN: Come on. The door was locked from the inside; you had to climb down the balcony. 
+SHERLOCK: Been away three days, judging by the laundry. Look at the case. There was something tightly packed inside it. 
+JOHN: Thanks – I’ll take your word for it. 
+SHERLOCK: Problem? 
+JOHN: Yeah, I’m not desperate to root around some bloke’s dirty underwear. 
+SHERLOCK: Those symbols at the bank – the graffiti. Why were they put there? 
+JOHN: What, some sort of code? 
+SHERLOCK: Obviously. Why were they painted? If you want to communicate, why not use e-mail? 
+JOHN: Well, maybe he wasn’t answering. 
+SHERLOCK: Oh good. You follow. 
+JOHN: No. 
+SHERLOCK: What kind of a message would everyone try to avoid? What about this morning – those letters you were looking at? 
+JOHN: Bills. 
+SHERLOCK: Yes. He was being threatened. 
+MAN’s VOICE: Bag this up, will you ... 
+JOHN: Not by the gas board. 
+MAN’s VOICE: ... and see if you can get prints off this glass. 
+SHERLOCK: Ah, Sergeant. We haven’t met. 
+MAN: Yeah, I know who you are; and I’d prefer it if you didn’t tamper with any of the evidence. 
+SHERLOCK: I’ve phoned Lestrade. Is he on his way? 
+MAN: He’s busy. I’m in charge. And it’s not Sergeant; it’s Detective Inspector. Dimmock. 
+DIMMOCK: We’re obviously looking at a suicide. 
+JOHN: That does seem the only explanation of all the facts. 
+SHERLOCK: Wrong. It’s one possible explanation of some of the facts. You’ve got a solution that you like, but you’re choosing to ignore anything you see that doesn’t comply with it. 
+DIMMOCK: Like? 
+SHERLOCK: The wound was on the right side of his head. 
+DIMMOCK: And? 
+SHERLOCK: Van Coon was left-handed. Requires quite a bit of contortion. 
+DIMMOCK: Left-handed? 
+SHERLOCK: Oh, I’m amazed you didn’t notice. All you have to do is look around this flat. Coffee table on the left-hand side; coffee mug handle pointing to the left. Power sockets: habitually used the ones on the left ... Pen and paper on the left-hand side of the phone because he picked it up with his right and took down messages with his left. D’you want me to go on? 
+JOHN: No, I think you’ve covered it. 
+SHERLOCK: Oh, I might as well; I’m almost at the bottom of the list. There’s a knife on the breadboard with butter on the right side of the blade because he used it with his left. It’s highly unlikely that a left-handed man would shoot himself in the right side of his head. 
+Conclusion: someone broke in here and murdered him. Only explanation of all the facts. 
+DIMMOCK: But the gun: why ... 
+SHERLOCK: He was waiting for the killer. He’d been threatened. 
+DIMMOCK: What? 
+JOHN: Today at the bank. Sort of a warning. 
+SHERLOCK: He fired a shot when his attacker came in. 
+DIMMOCK: And the bullet? 
+SHERLOCK: Went through the open window. 
+DIMMOCK: Oh, come on! What are the chances of that?! 
+SHERLOCK: Wait until you get the ballistics report. The bullet in his brain wasn’t fired from his gun. I guarantee it. 
+DIMMOCK: But if his door was locked from the inside, how did the killer get in? 
+SHERLOCK: Good! You’re finally asking the right questions. 
+
+SEBASTIAN: ... and he’s left trying to sort of cut his hair with a fork, which of course can never be done! 
+SHERLOCK: It was a threat. That’s what the graffiti meant. 
+SEBASTIAN: I’m kind of in a meeting. Can you make an appointment with my secretary? 
+SHERLOCK: I don’t think this can wait. Sorry, Sebastian. One of your traders – someone who worked in your office – was killed. 
+SEBASTIAN: What? 
+JOHN: Van Coon. The police are at his flat. 
+SEBASTIAN: Killed? 
+SHERLOCK: Sorry to interfere with everyone’s digestion. Still wanna make an appointment? Would, maybe, nine o’clock at Scotland Yard suit? 
+
+SEBASTIAN: Harrow; Oxford. Very bright guy. Worked in Asia for a while, so ... 
+JOHN: ... you gave him the Hong Kong accounts. 
+SEBASTIAN: Lost five mill in a single morning; made it all back a week later. Nerves of steel, Eddie had. 
+JOHN: Who’d wanna kill him? 
+SEBASTIAN: We all make enemies. 
+JOHN: You don’t all end up with a bullet through your temple. 
+SEBASTIAN: Not usually. ’Scuse me. It’s my Chairman. The police have been on to him. Apparently they’re telling him it was a suicide. 
+SHERLOCK: Well, they’ve got it wrong, Sebastian. He was murdered. 
+SEBASTIAN: Well, I’m afraid they don’t see it like that. 
+SHERLOCK: Seb. 
+SEBASTIAN: ... and neither does my boss. I hired you to do a job. Don’t get side-tracked. 
+JOHN: I thought bankers were all supposed to be heartless bastards(!) 
+
+DIRECTOR: I need you to get over to Crispians. Two Ming vases up for auction – Chenghua. Will you appraise them? 
+ANDY: Er, er, Soo Lin should go. She’s the expert. 
+DIRECTOR: Soo Lin has resigned her job. I need you. 
+
+SARAH: Just locum work. 
+JOHN: No, that’s fine. 
+SARAH: You’re, um ... well, you’re a bit over-qualified. 
+JOHN: Er, I could always do with the money. 
+SARAH: Well, we’ve got two away on holiday this week, and one’s just left to have a baby. Might be a bit mundane for you. 
+JOHN: Er, no; mundane is good sometimes. Mundane works. 
+SARAH: It says here you were a soldier. 
+JOHN: And a doctor. 
+SARAH: Anything else you can do? 
+JOHN: I learned the clarinet at school. 
+SARAH: Oh! Well, I look forward to it! 
+
+SHERLOCK: I said, “Could you pass me a pen?” 
+JOHN: What? When? 
+SHERLOCK: ’Bout an hour ago. 
+JOHN: Didn’t notice I’d gone out, then. 
+Yeah, I went to see about a job at that surgery. 
+SHERLOCK: How was it? 
+JOHN: It’s great. She’s great. 
+SHERLOCK: Who? 
+JOHN: The job. 
+SHERLOCK: “She”? 
+JOHN: ... It. 
+SHERLOCK: Here, have a look. 
+JOHN: Hmm? The ‘intruder who can walk through walls.’ 
+SHERLOCK: Happened last night. Journalist shot dead in his flat; doors locked, windows bolted from the inside – exactly the same as Van Coon. 
+JOHN: God. You think ... 
+SHERLOCK: He’s killed another one.
+
+SHERLOCK: Brian Lukis, freelance journalist. Murdered in his flat ... doors locked from the inside. 
+JOHN: You’ve gotta admit, it’s similar. Both men killed by someone who can ... walk through solid walls. 
+SHERLOCK: Inspector, do you seriously believe that Eddie Van Coon was just another City suicide? You have seen the ballistics report, I suppose? 
+DIMMOCK: Mmm. 
+SHERLOCK: And the shot that killed him: was it fired from his own gun? 
+DIMMOCK: No. 
+SHERLOCK: No. So this investigation might move a bit quicker if you were to take my word as gospel. I’ve just handed you a murder enquiry. Five minutes in his flat. 
+
+SHERLOCK: Four floors up. That’s why they think they’re safe. Put a chain across the door and bolt it shut; think they’re impregnable. They don’t reckon for one second that there’s another way in. 
+DIMMOCK: I don’t understand. 
+SHERLOCK: You’re dealing with a killer who can climb. 
+DIMMOCK: What are you doing? 
+SHERLOCK: He clings to the walls like an insect. That’s how he got in. 
+DIMMOCK: What?! 
+SHERLOCK: Climbed up the side of the walls, ran along the roof, dropped in through this skylight. 
+DIMMOCK: You’re not serious! Like Spiderman?(!) 
+SHERLOCK: He scaled six floors of a Docklands apartment building, jumped the balcony to kill Van Coon. 
+DIMMOCK: Oh, ho-hold on! 
+SHERLOCK: And of course that’s how he got into the bank. He ran along the window ledge and onto the terrace. We have to find out what connects these two men. 
+
+SHERLOCK: Date stamped on the book is the same day that he died. 
+JOHN: Sherlock. 
+
+SHERLOCK: So, the killer goes to the bank, leaves a threatening cipher for Van Coon; Van Coon panics, returns to his apartment, locks himself in. Hours later, he dies. 
+JOHN: The killer finds Lukis at the library; he writes the cipher on the shelf where he knows it’ll be seen; Lukis goes home. 
+SHERLOCK: Late that night, he dies too. 
+JOHN: Why did they die, Sherlock? 
+SHERLOCK: Only the cipher can tell us. 
+
+SHERLOCK: The world’s run on codes and ciphers, John. From the million-pound security system at the bank, to the PIN machine you took exception to, cryptography inhabits our every waking moment. 
+JOHN: Yes, okay, but ... 
+SHERLOCK: ... but it’s all computer-generated: electronic codes, electronic ciphering methods. This is different. It’s an ancient device. Modern code-breaking methods won’t unravel it. 
+JOHN: Where are we headed? 
+SHERLOCK: I need to ask some advice. 
+JOHN: What?! Sorry?! 
+SHERLOCK: You heard me perfectly. I’m not saying it again. 
+JOHN: You need advice? 
+SHERLOCK: On painting, yes. I need to talk to an expert. 
+
+RAZ: Part of a new exhibition. 
+SHERLOCK: Interesting. 
+RAZ: I call it Urban Bloodlust Frenzy. 
+JOHN: Catchy(!) 
+RAZ: I’ve got two minutes before a Community Support Officer comes round that corner. Can we do this while I’m workin’? 
+SHERLOCK: Know the author? 
+RAZ: Recognise the paint. It’s like Michigan; hardcore propellant. I’d say zinc. 
+SHERLOCK: What about the symbols: d’you recognise them? 
+RAZ: Not even sure it’s a proper language. 
+SHERLOCK: Two men have been murdered, Raz. Deciphering this is the key to finding out who killed them. 
+RAZ: What, and this is all you’ve got to go on? It’s hardly much, now, is it? 
+SHERLOCK: Are you gonna help us or not? 
+RAZ: I’ll ask around. 
+SHERLOCK: Somebody must know something about it. 
+VOICE: Oi! 
+COMMUNITY OFFICER: What the hell do you think you’re doing? This gallery is a listed public building. 
+JOHN: No, no, wait, wait. It’s not me who painted that. I was just holding this for ... 
+COMMUNITY OFFICER: Bit of an enthusiast, are we? 
+
+ANDY: She was right in the middle of an important piece of restoration. Why would she suddenly resign? 
+DIRECTOR: Family problems. She said so in her letter. 
+ANDY: But she doesn’t have a family. She came to this country on her own. 
+DIRECTOR: Andy ... 
+ANDY: Look, those teapots, those ceramics: they’ve become her obsession. She’s been working on restoring them for weeks. I-I can’t believe that she would just abandon them. 
+DIRECTOR: Perhaps she was getting a bit of unwanted attention. 
+
+SHERLOCK: You’ve been a while. 
+JOHN: Yeah, well, you know how it is. Custody sergeants don’t really like to be hurried, do they? Just formalities: fingerprints, charge sheet; and I’ve gotta be in Magistrates Court on Tuesday. 
+SHERLOCK: What? 
+JOHN: Me, Sherlock, in court on Tuesday. They’re givin’ me an ASBO! 
+SHERLOCK: Good. Fine. 
+JOHN: You wanna tell your little pal he’s welcome to go and own up any time. 
+SHERLOCK: This symbol: I still can’t place it. No, I need you to go to the police station ... 
+JOHN: Oi, oi, oi! 
+SHERLOCK: ... ask about the journalist. 
+JOHN: Oh, Jesus! 
+SHERLOCK: His personal effects will have been impounded. Get hold of his diary, or something that will tell us his movements. Gonna go and see Van Coon’s P.A. If we retrace their steps, somewhere they’ll coincide. 
+JOHN: Scotland Yard. 
+TAXI DRIVER: Right. 
+
+AMANDA: Flew back from Dalian Friday. Looks like he had back-to-back meetings with the sales team. 
+SHERLOCK: Can you print me up a copy? 
+AMANDA: Sure. 
+SHERLOCK: What about the day he died? Can you tell me where he was? 
+AMANDA: Sorry. Bit of a gap. I have all his receipts. 
+
+DIMMOCK: Your friend ... 
+JOHN: Listen: whatever you say, I’m behind you one hundred percent. 
+DIMMOCK: ... he’s an arrogant sod. 
+JOHN: Well, that was mild! People say a lot worse than that. 
+DIMMOCK: This is what you wanted, isn’t it? The journalist’s diary? 
+
+SHERLOCK: What kind of a boss was he, Amanda? Appreciative? 
+AMANDA: Um, no. That’s not a word I’d use. The only things Eddie appreciated had a big price tag. 
+SHERLOCK: Like that hand cream. He bought that for you, didn’t he? Look at this one. Got a taxi from home on the day he died. Eighteen pounds fifty. 
+AMANDA: That would get him to the office. 
+SHERLOCK: Not rush hour; check the time. Mid-morning. Eighteen would get him as far as ... 
+AMANDA: The West End. I remember him saying. 
+SHERLOCK: Underground. Printed at one in Piccadilly. 
+AMANDA: So he got a Tube back to the office. Why would he get a taxi into town and then the Tube back? 
+SHERLOCK: Because he was delivering something heavy. Didn’t want to lug a package up the escalator. 
+AMANDA: Delivering? 
+SHERLOCK: To somewhere near Piccadilly Station. Dropped the package, delivered it and then ... stopped on his way. He got peckish. 
+
+SHERLOCK: So you bought your lunch from here en route to the station, but where were you headed from? Where did the taxi drop you ...? 
+JOHN: Right. 
+SHERLOCK: Eddie Van Coon brought a package here the day he died – whatever was hidden inside that case. I’ve managed to piece together a picture using scraps of information ... 
+JOHN: Sherlock ... 
+SHERLOCK: ... credit card bills, receipts. He flew back from China, then he came here. 
+JOHN: Sherlock ... 
+SHERLOCK: Somewhere in this street; somewhere near. I don’t know where, but ... 
+JOHN: That shop over there. 
+SHERLOCK: How can you tell? 
+JOHN: Lukis’ diary. He was here too. He wrote down the address. 
+SHERLOCK: Oh. 
+
+SHOP KEEPER: You want lucky cat? 
+JOHN: No, thanks. No. 
+SHOP KEEPER: Ten pound. Ten pound! 
+JOHN: No. 
+SHOP KEEPER: I think your wife, she will like! 
+JOHN: No, thank you. Sherlock. The label there. 
+SHERLOCK: Yes, I see it. 
+JOHN: Exactly the same as the cipher. 
+
+SHERLOCK: It’s an ancient number system! Hangzhou. These days, only street traders use it. Those were numbers written on the wall at the bank and at the library. Numbers written in an ancient Chinese dialect. 
+JOHN: It’s a fifteen! What we thought was the artist’s tag – it’s a number fifteen. 
+SHERLOCK: And the blindfold – the horizontal line? That was a number as well. The Chinese number one, John. 
+JOHN: We’ve found it! 
+
+JOHN: Two men travel back from China. Both head straight for the Lucky Cat emporium. What did they see? 
+SHERLOCK: It’s not what they saw; it’s what they both brought back in those suitcases. 
+JOHN: And you don’t mean duty free. Thank you. 
+SHERLOCK: Think about what Sebastian told us; about Van Coon – about how he stayed afloat in the market. 
+JOHN: Lost five million ... 
+SHERLOCK: ... made it back in a week. 
+JOHN: Mmm. 
+SHERLOCK: That’s how he made such easy money. 
+JOHN: He was a smuggler. Mmm. 
+SHERLOCK: A guy like him – it would have been perfect. Business man ... 
+JOHN: Mmm-hmm. 
+SHERLOCK: ... making frequent trips to Asia. And Lukis was the same ... a journalist writing about China. 
+JOHN: Mmm. 
+SHERLOCK: Both of them smuggled stuff out, and the Lucky Cat was their drop-off. 
+JOHN: But why did they die? I mean, it doesn’t make sense. If they both turn up at the shop and deliver the goods, why would someone threaten them and kill them after the event, after they’d finished the job? 
+SHERLOCK: What if one of them was light-fingered? 
+JOHN: How d’you mean? 
+SHERLOCK: Stole something; something from the hoard. 
+JOHN: And the killer doesn’t know which of them took it, so he threatens them both. Right. 
+SHERLOCK: Remind me ... when was the last time that it rained? 
+
+SHERLOCK: It’s been here since Monday. No-one’s been in that flat for at least three days. 
+JOHN: Could’ve gone on holiday. 
+SHERLOCK: D’you leave your windows open when you go on holiday? 
+JOHN: Sherlock! 
+SHERLOCK: Someone else has been here. Somebody else broke into the flat and knocked over the vase just like I did. 
+JOHN: D’you think maybe you could let me in this time? Can you not keep doing this, please? 
+SHERLOCK: I’m not the first. 
+JOHN: What? 
+SHERLOCK: Somebody’s been in here before me! 
+JOHN: What are you saying? 
+SHERLOCK: Size eight feet. Small, but ... athletic. 
+JOHN: I’m wasting my breath. 
+SHERLOCK: Small, strong hands. Our acrobat. But why didn’t he close the window when he left ...? Oh, stupid. Stupid. Obvious. He’s still here. 
+JOHN: Any time you want to include me. 
+SHERLOCK: John! John! 
+JOHN: “No, I’m Sherlock Holmes and I always work alone because no-one else can compete with ... my MASSIVE INTELLECT!” 
+SHERLOCK: The, uh, milk’s gone off and the washing’s starting to smell. Somebody left here in a hurry three days ago. 
+JOHN: Somebody? 
+SHERLOCK: Soo Lin Yao. We have to find her. 
+JOHN: But how, exactly? 
+SHERLOCK: Maybe we could start with this. 
+JOHN: You’ve gone all croaky. Are you getting a cold? 
+SHERLOCK: I’m fine. 
+
+SHERLOCK: When was the last time that you saw her? 
+ANDY: Three days ago, um, here at the museum. This morning they told me she’d resigned just like that. Just left her work unfinished. 
+SHERLOCK: What was the last thing that she did on her final afternoon? 
+
+ANDY: She does this demonstration for the tourists – a-a tea ceremony. So she would have packed up her things and just put them in here. 
+
+SHERLOCK: We have to get to Soo Lin Yao. 
+JOHN: If she’s still alive. 
+RAZ: Sherlock! 
+JOHN: Oh, look who it is. 
+RAZ: Found something you’ll like. 
+
+JOHN: Tuesday morning, all you’ve gotta do is turn up and say the bag was yours. 
+SHERLOCK: Forget about your court date. 
+
+GIRL: Dude, that was rad! 
+SHERLOCK: If you want to hide a tree, then a forest is the best place to do it, wouldn’t you say? People would just walk straight past, not knowing, unable to decipher the message. 
+RAZ: There. I spotted it earlier. 
+SHERLOCK: They have been in here. And that’s the exact same paint? 
+RAZ: Yeah. 
+SHERLOCK: John, if we’re going to decipher this code, we’re gonna need to look for more evidence. 
+
+JOHN: Answer your phone! I’ve been calling you! I’ve found it. 
+
+JOHN: It’s been painted over! I don’t understand. It-it was here ... ten minutes ago. I saw it. A whole load of graffiti! 
+SHERLOCK: Somebody doesn’t want me to see it. 
+JOHN: Hey, Sherlock, what are you doing ...? 
+SHERLOCK: Shh, John, concentrate. I need you to concentrate. Close your eyes. 
+JOHN: No, what? Why? Why? What are you doing?! 
+SHERLOCK: I need you to maximise your visual memory. Try to picture what you saw. Can you picture it? 
+JOHN: Yeah. 
+SHERLOCK: Can you remember it? 
+JOHN: Yes, definitely. 
+SHERLOCK: Can you remember the pattern? 
+JOHN: Yes! 
+SHERLOCK: How much can you remember it? 
+JOHN: Well, don’t worry ... 
+SHERLOCK: Because the average human memory on visual matters is only sixty-two percent accurate. 
+JOHN: Yeah, well, don’t worry – I remember all of it. 
+SHERLOCK: Really? 
+JOHN: Yeah, well at least I would ... if I can get to my pockets! I took a photograph. 
+
+SHERLOCK: Always in pairs, John. 
+JOHN: Hmm? 
+SHERLOCK: Numbers come with partners. 
+JOHN: God, I need to sleep. 
+SHERLOCK: Why did he paint it so near the tracks? 
+JOHN: No idea. 
+SHERLOCK: Thousands of people pass by there every day. 
+JOHN: Just twenty minutes. 
+SHERLOCK: Of course. Of course! He wants information. He’s trying to communicate with his people in the underworld. Whatever was stolen, he wants it back. Somewhere here in the code. We can’t crack this without Soo Lin Yao. 
+JOHN: Oh, good(!) 
+
+SHERLOCK: Two men who travelled back from China were murdered, and their killer left them messages in the Hangzhou numerals. 
+JOHN: Soo Lin Yao’s in danger. Now, that cipher – it was just the same pattern as the others. He means to kill her as well. 
+ANDY: Look, I’ve tried everywhere: um, friends, colleagues. I-I don’t know where she’s gone. I mean, she could be a thousand miles away. 
+JOHN: What are you looking at? 
+SHERLOCK: Tell me more about those teapots. 
+ANDY: Th-the pots were her obsession. Um, they need urgent work. If-if they dry out, then the clay can start to crumble. Apparently you have to just keep making tea in them. 
+SHERLOCK: Yesterday, only one of those pots was shining. Now there are two. 
+
+SHERLOCK: Fancy a biscuit with that? Centuries old. Don’t wanna break that. Hello.
+
+SOO LIN: You saw the cipher. Then you know he is coming for me. 
+SHERLOCK: You’ve been clever to avoid him so far. 
+SOO LIN: I had to finish ... to finish this work. It’s only a matter of time. I know he will find me. 
+SHERLOCK: Who is he? Have you met him before? 
+SOO LIN: When I was a girl, living back in China. I recognise his ... ‘signature.’ 
+SHERLOCK: The cipher. 
+SOO LIN: Only he would do this. Zhi Zhu. 
+JOHN: Zhi Zhu? 
+SHERLOCK: The Spider. 
+SOO LIN: You know this mark? 
+SHERLOCK: Yes. It’s the mark of a Tong. 
+JOHN: Hmm? 
+SHERLOCK: Ancient crime syndicate based in China. 
+SOO LIN: Every foot soldier bears the mark; everyone who hauls for them. 
+JOHN: “Hauls”? Y-you mean you were a smuggler? 
+SOO LIN: I was fifteen. My parents were dead. I had no livelihood; no way of surviving day to day except to work for the bosses. 
+SHERLOCK: Who are they? 
+SOO LIN: They are called the Black Lotus. By the time I was sixteen, I was taking thousands of pounds’ worth of drugs across the border into Hong Kong. But I managed to leave that life behind me. I came to England. They gave me a job here. Everything was good; a new life. 
+SHERLOCK: Then he came looking for you. 
+SOO LIN: Yes. I had hoped after five years maybe they would have forgotten me, but they never really let you leave. A small community like ours – they are never very far away. He came to my flat. He asked me to help him to track down something that was stolen. 
+JOHN: And you’ve no idea what it was? 
+SOO LIN: I refused to help. 
+JOHN: So you knew him well when you were living back in China? 
+SOO LIN: Oh yes. He’s my brother. Two orphans. We had no choice. We could work for the Black Lotus, or starve on the streets like beggars. My brother has become their puppet, in the power of the one they call Shan – the Black Lotus general. I turned my brother away. He said I had betrayed him. Next day I came to work and the cipher was waiting. 
+SHERLOCK: Can you decipher these? 
+SOO LIN: These are numbers. 
+SHERLOCK: Yes, I know. 
+SOO LIN: Here: the line across the man’s eyes – it’s the Chinese number one. 
+SHERLOCK: And this one is fifteen. But what’s the code? 
+SOO LIN: All the smugglers know it. It’s based upon a book ... He’s here. Zhi Zhu. He has found me. 
+JOHN: Sh-Sherlock. Sherlock, wait! Come here. Get in. Get in! I have to go and help. Bolt the door after me. 
+SHERLOCK: Careful! Some of those skulls are over two hundred thousand years old! Have a bit of respect! Thank you(!) 
+SOO LIN: [Liang.] [Big brother.] [Please ...] 
+JOHN: Oh my God. 
+
+JOHN: How many murders is it gonna take before you start believing that this maniac’s out there? A young girl was gunned down tonight. That’s three victims in three days. You’re supposed to be finding him. 
+SHERLOCK: Brian Lukis and Eddie Van Coon were working for a gang of international smugglers – a gang called the Black Lotus operating here in London right under your nose. 
+DIMMOCK: Can you prove that? 
+
+SHERLOCK: What are you thinking: pork or the pasta? 
+MOLLY: Oh, it’s you! 
+SHERLOCK: This place is never going to trouble Egon Ronay, is it? I’d stick with the pasta. Don’t wanna be doing roast pork – not if you’re slicing up cadavers. 
+MOLLY: What are you having? 
+SHERLOCK: Don’t eat when I’m working. Digesting slows me down. 
+MOLLY: So you’re working here tonight? 
+SHERLOCK: Need to examine some bodies. 
+MOLLY: “Some”? 
+SHERLOCK: Eddie Van Coon and Brian Lukis. 
+MOLLY: They’re on my list. 
+SHERLOCK: Could you wheel them out again for me? 
+MOLLY: Well ... the paperwork’s already gone through. 
+SHERLOCK: You’ve ... changed your hair. 
+MOLLY: What? 
+SHERLOCK: The-the style: it’s usually parted in the middle. 
+MOLLY: Yes, well ... 
+SHERLOCK: Mmm, it’s good; it, um, suits you better this way. 
+
+SHERLOCK: We’re just interested in the feet. 
+MOLLY: The feet? 
+SHERLOCK: Yes. D’you mind if we have a look at them? Now Van Coon. Oh(!) 
+DIMMOCK: So ... 
+SHERLOCK: So either these two men just happened to visit the same Chinese tattoo parlour or I’m telling the truth. 
+DIMMOCK: What do you want? 
+SHERLOCK: I want every book from Lukis’ apartment and Van Coon’s. 
+DIMMOCK: Their books? 
+
+SHERLOCK: Not just a criminal organisation; it’s a cult. Her brother was corrupted by one of its leaders. 
+JOHN: Soo Lin said the name. 
+SHERLOCK: Yes, Shan; General Shan. 
+JOHN: We’re still no closer to finding them. 
+SHERLOCK: Wrong. We’ve got almost all we need to know. She gave us most of the missing pieces. Why did he need to visit his sister? Why did he need her expertise? 
+JOHN: She worked at the museum. 
+SHERLOCK: Exactly. 
+JOHN: An expert in antiquities. Mmm, of course. I see. 
+SHERLOCK: Valuable antiquities, John. Ancient Chinese relics purchased on the black market. China’s home to a thousand treasures hidden after Mao’s revolution. 
+JOHN: And the Black Lotus is selling them. 
+
+SHERLOCK: Check for the dates ... Here, John. 
+JOHN: Mmm. 
+SHERLOCK: Arrived from China four days ago. Anonymous. Vendor doesn’t give his name. Two undiscovered treasures from the East. 
+JOHN: One in Lukis’ suitcase and one in Van Coon’s. 
+SHERLOCK: ... antiquities sold at auction. Look, here’s another one. 
+JOHN: Mmm. 
+SHERLOCK: Arrived from China a month ago: Chinese ceramic statue, sold four hundred thousand. 
+JOHN: Ah, look: a month before that – a Chinese painting, half a million. 
+SHERLOCK: All of them from an anonymous source. They’re stealing them back in China and one by one they’re feeding them into Britain. 
+JOHN: Huh. And every single auction coincides with Lukis or Van Coon travelling to China. 
+SHERLOCK: So what if one of them got greedy when they were in China? What if one of them stole something? 
+JOHN: That’s why Zhi Zhu’s come. 
+MRS HUDSON: Ooh-ooh! Sorry. Are we collecting for charity, Sherlock? 
+SHERLOCK: What? 
+MRS HUDSON: A young man’s outside with crates of books. 
+
+SHERLOCK: So, the numbers are references. 
+JOHN: To books. 
+SHERLOCK: To specific pages and specific words on those pages. 
+JOHN: Right, so ... fifteen and one: that means ... 
+SHERLOCK: Turn to page fifteen and it’s the first word you read. 
+JOHN: Okay. So what’s the message? 
+SHERLOCK: Depends on the book. That’s the cunning of the book code. Has to be one that they both owned. 
+JOHN: Okay, right. Well, this shouldn’t take too long, should it?(!) 
+DIMMOCK: We found these, at the museum. Is this your writing? 
+JOHN: Uh, we hoped Soo Lin could decipher it for us. Ta. 
+DIMMOCK: Anything else I can do? To assist you, I mean? 
+SHERLOCK: Some silence right now would be marvellous. “Cigarette.” 
+JOHN: Ah. 
+SHERLOCK: “Imagine.” 
+
+RECEPTIONIST: I’m sorry to keep you waiting. But we haven’t got anything now ’til next Thursday. 
+WOMAN’s VOICE: This is taking ages. 
+RECEPTIONIST: Er, sorry. 
+WOMAN’s VOICE: What’s the point of making an appointment if they can’t even stick to it? 
+SARAH: Um, what’s going on? 
+RECEPTIONIST: That new doctor you hired – he hasn’t buzzed the intercom for ages. 
+SARAH: Let me go and have a word. 
+RECEPTIONIST: Yeah, thanks. 
+SARAH: ’Scuse me. 
+RECEPTIONIST: Sorry. 
+WOMAN’s VOICE: What did she just say? 
+SARAH: John? John? 
+
+JOHN: Um, looks like I’m done. I thought I had some more to see. 
+SARAH: Oh, I did one or two of yours. 
+JOHN: One or two? 
+SARAH: Well, maybe five or six. 
+JOHN: I’m sorry. That’s not very professional. 
+SARAH: No. No, not really. 
+JOHN: I had, um, a bit of a late one. 
+SARAH: Oh, right. 
+JOHN: Anyway, see you. 
+SARAH: So, um, what were you doing to keep you up so late? 
+JOHN: Uh, I was, er, attending a sort of book event. 
+SARAH: Oh. Oh, she likes books, does she, your ... your girlfriend? 
+JOHN: Mmm? No, it wasn’t a date. 
+SARAH: Good. I mean, um ... 
+JOHN: And I don’t have one tonight. 
+
+SHERLOCK: A book that everybody would own. Fifteen. Entry one. I need to get some air. We’re going out tonight. 
+JOHN: Actually, I’ve, er, got a date. 
+SHERLOCK: What? 
+JOHN: It’s where two people who like each other go out and have fun. 
+SHERLOCK: That’s what I was suggesting. 
+JOHN: No it wasn’t ... at least I hope not. 
+SHERLOCK: Where are you taking her? 
+JOHN: Er, cinema. 
+SHERLOCK: Oh, dull, boring, predictable. Why don’t you try this? In London for one night only. 
+JOHN: Thanks, but I don’t come to you for dating advice. 
+
+SARAH: It’s years since anyone took me to the circus. 
+JOHN: Right, yes! Well, it’s ... a friend recommended it to me. He phoned up. 
+SARAH: Ah. What are they, a touring company or something? 
+JOHN: I don’t know much about it. 
+SARAH: I think they’re probably from China! 
+JOHN: Yes, I think ... I think so, yes. There’s a coincidence(!) 
+CUSTOMER: That’s wonderful. Thank you very much. 
+MANAGER: Okay. 
+JOHN: Hi. I have, er, two tickets reserved for tonight. 
+MANAGER: And what’s the name? 
+JOHN: Er, Holmes. 
+MANAGER: Actually, I have three in that name. 
+JOHN: No, I don’t think so. We only booked two. 
+SHERLOCK: And then I phoned back and got one for myself as well. I’m Sherlock. 
+SARAH: Er, hi. 
+SHERLOCK: Hello. 
+
+JOHN: You couldn’t let me have just one night off? 
+SHERLOCK: Yellow Dragon Circus, in London for one day. It fits. The Tong sent an assassin to England ... 
+JOHN: ... dressed as a tightrope walker. Come on, Sherlock, behave! 
+SHERLOCK: We’re looking for a killer who can climb, who can shin up a rope. Where else would you find that level of dexterity? Exit visas are scarce in China. They need a pretty good reason to get out of that country. Now, all I need to do is have a quick look round the place ... 
+JOHN: Fine. You do that; I’m gonna take Sarah for a pint. 
+SHERLOCK: I need your help. 
+JOHN: I do have a couple of other things on my mind this evening! 
+SHERLOCK: Like what? 
+JOHN: You are kidding. 
+SHERLOCK: What’s so important? 
+JOHN: Sherlock, I’m right in the middle of a date. D’you want me to chase some killer while I’m trying to ... 
+SHERLOCK: What? 
+JOHN: ... while I’m trying to get off with Sarah! Heyyy. Ready? 
+SARAH: Yeah! 
+
+JOHN: You said circus. This is not a circus. Look at the size of this crowd. Sherlock, this is ... art. 
+SHERLOCK: This is not their day job. 
+JOHN: No, sorry, I forgot. They’re not a circus; they’re a gang of international smugglers. 
+SHERLOCK: Classic Chinese escapology act. 
+JOHN: Hmm? 
+SHERLOCK: The crossbow’s on a delicate string. The warrior has to escape his bonds before it fires. 
+SARAH: Oh, Gawd! I’m sorry! 
+SHERLOCK: She splits the sandbag; the sand pours out; gradually the weight lowers into the bowl. 
+SARAH: Thank God. 
+JOHN: My God! 
+OPERA SINGER: Ladies and gentlemen, from the distant moonlight shores of the Yangtze River, we present for your pleasure the deadly Chinese bird-spider. 
+JOHN: Did you see that?! 
+SHERLOCK: Well, well. Found you. 
+JOHN: Come on. 
+SHERLOCK: Come on! Let’s go! 
+
+DIMMOCK: I sent a couple of cars. The old hall is totally deserted. 
+SHERLOCK: Look, I saw the mark at the circus – that tattoo that we saw on the two bodies: the mark of the Tong. 
+JOHN: Lukis and Van Coon were part of a-a smuggling operation. Now, one of them stole something when they were in China; something valuable. 
+SHERLOCK: These circus performers were gang members sent here to get it back. 
+DIMMOCK: Get what back? 
+JOHN: We don’t know. 
+DIMMOCK: You don’t know. Mr Holmes ... I’ve done everything you asked. Lestrade, he seems to think your advice is worth something. I gave the order for a raid. Please tell me I’ll have something to show for it – other than a massive bill for overtime.
+
+JOHN: They’ll be back in China by tomorrow. 
+SHERLOCK: No, they won’t leave without what they came for. We need to find their hide-out; the rendezvous. 
+SHERLOCK: Somewhere in this message it must tell us. 
+SARAH: Well, I think perhaps I should leave you to it. 
+JOHN: No, no, you don’t have to go ... does she? You can stay. 
+SHERLOCK: Yes, it would be better to study if you left now. 
+JOHN: He’s kidding. Please stay if you’d like. 
+SARAH: Is it just me, or is anyone else starving? 
+SHERLOCK: Ooh, God. 
+
+SARAH: So this is what you do, you and John. You solve puzzles for a living. 
+SHERLOCK: Consulting detective. 
+SARAH: Oh. 
+JOHN: Oh! 
+SARAH: What are these squiggles? 
+SHERLOCK: They’re numbers. An ancient Chinese dialect. 
+SARAH: Oh, right! Yeah, well, of course I should have known that(!) 
+MRS HUDSON: Ooh-ooh! I’ve done punch, and a bowl of nibbles. 
+JOHN: Mrs Hudson, you’re a saint! 
+MRS HUDSON: If it was Monday, I’d have been to the supermarket! 
+JOHN: No; thank you! Thank you! 
+SARAH: So these numbers – it’s a cipher. 
+SHERLOCK: Exactly. 
+SARAH: And each pair of numbers is a word. 
+SHERLOCK: How did you know that? 
+SARAH: Well, two words have already been translated, here. 
+SHERLOCK: John. 
+JOHN: Mmm? 
+SHERLOCK: John, look at this. Soo Lin at the museum – she started to translate the code for us. We didn’t see it! “NINE,” “MILL.” 
+JOHN: Does that mean ‘millions’? 
+SHERLOCK: Nine million quid. For what? We need to know the end of this sentence. 
+JOHN: Where are you going? 
+SHERLOCK: To the museum; to the restoration room. Oh, we must have been staring right at it! 
+JOHN: At-at what? 
+SHERLOCK: The book, John. The book – the key to cracking the cipher! Soo Lin used it to do this! Whilst we were running around the gallery, she started to translate the code. It must be on her desk. 
+
+SHERLOCK: Taxi! 
+TOURIST: [Hey, you! Why don’t you look where you’re going?] 
+SHERLOCK: [Forgive me, please.] 
+TOURIST [Yeah, thanks(!)] [And they say the English are polite!] 
+SHERLOCK: A book that everybody would own. Please, wait! [Please!] 
+MALE TOURIST: Was wollt er? [What does he want?] [Hey, you! What are you doing?] 
+SHERLOCK: [Wait a minute!] 
+TOURIST [Give me back my book!] 
+SARAH: Yeah! No, absolutely. I mean, well, a quiet night in’s just-just what the doctor ordered. 
+JOHN: Ha-ha-ha(!) 
+SARAH: Er, I mean, I’d love to go out of an evening and wrestle a few Chinese gangsters, you know, generally, but a girl can get too much. 
+JOHN: No, okay. Hmm. Um, shall we get a takeaway? 
+SARAH: Yeah! 
+
+SHERLOCK: Page fifteen, entry one. Page fifteen, entry one ... Dead man. You were threatening to kill them. It’s the first cipher. Thirty-seven, nine; thirty-seven, nine ... Nine mill ... for ... 
+
+JOHN: Ooh, blimey, that was quick. I’ll just pop down. 
+SARAH: Do you want me to lay the table? 
+JOHN: Um, eat off trays? 
+SARAH: Yeah. 
+JOHN: Yeah! 
+
+SHERLOCK: Sixty, thirty-five. Jade. Jade. 
+
+JOHN: Sorry to keep you. How much d’you want? 
+CHINESE MAN: Do you have it? 
+JOHN: What? 
+CHINESE MAN: Do you have the treasure? 
+JOHN: I don’t understand. 
+
+SHERLOCK: “NINE MILL FOR JADE PIN DRAGON DEN BLACK ... TRAMWAY.” 
+
+SHERLOCK: John! John! I’ve got it! The cipher! The book! It’s the London A to Z that they’re using... 
+
+OPERA SINGER: “A book is like a magic garden carried in your pocket.” Chinese proverb, Mr Holmes. 
+JOHN: I ... I’m not Sherlock Holmes. 
+OPERA SINGER: Forgive me if I do not take your word for it. 
+JOHN: Ow. Ow. 
+OPERA SINGER: Debit card, name of S. Holmes. 
+SHERLOCK: Take my card. 
+JOHN: Yes; that’s not actually mine. He lent that to me. 
+OPERA SINGER: A cheque for five thousand pounds made out in the name of Mr Sherlock Holmes. 
+JOHN: Yeah, he gave me that to look after. 
+OPERA SINGER: Tickets from the theatre, collected by you, name of Holmes. 
+JOHN: Yes, okay ... 
+MANAGER: What’s the name? 
+JOHN: Uh, Holmes. 
+JOHN: I realise what this looks like, but I’m not him. 
+OPERA SINGER: We heard it from your own mouth. 
+JOHN: What? 
+OPERA SINGER: “I am Sherlock Holmes and I always work alone ...” 
+JOHN: “... because no-one else can compete with my MASSIVE INTELLECT!” 
+JOHN: Did I really say that? I s’ppose there’s no use me trying to persuade you I was doing an impression. 
+OPERA SINGER: I am Shan. 
+JOHN: You’re ... you’re Shan. 
+OPERA SINGER/SHAN: Three times we tried to kill you and your companion, Mr Holmes. What does it tell you when an assassin cannot shoot straight? It tells you that they’re not really trying. 
+
+SHERLOCK: Tramway. Oh, Christ. There. 
+
+SHAN: Not blank bullets now. 
+JOHN: Okay. 
+SHAN: If we wanted to kill you, Mr Holmes, we would have done it by now. We just wanted to make you inquisitive. Do you have it? 
+JOHN: Do I have what? 
+SHAN: The treasure. 
+JOHN: I don’t know what you’re talking about. 
+SHAN: I would prefer to make certain. Everything in the West has its price; and the price for her life ... information. 
+JOHN: Sorry. I’m sorry. 
+SHAN: Where’s the hairpin? 
+JOHN: What? 
+SHAN: The Empress pin valued at nine million sterling. We already had a buyer in the West; and then one of our people was greedy. He took it, brought it back to London and you, Mr Holmes, have been searching. 
+JOHN: Please. Please, listen to me. I’m not ... I’m not Sherlock Holmes. You have to believe me. I haven’t found whatever it is you’re looking for. 
+SHAN: I need a volunteer from the audience! 
+JOHN: No, please. Please. 
+SHAN: Ah, thank you, lady. Yes, you’ll do very nicely. 
+
+SHAN: Ladies and gentlemen. From the distant moonlit shores of NW1, we present for your pleasure Sherlock Holmes’ pretty companion in a death-defying act. 
+JOHN: Please! 
+SHAN: You’ve seen the act before. How dull for you. You know how it ends. 
+JOHN: I’m not Sherlock Holmes! 
+SHAN: I don’t believe you. 
+SHERLOCK: You should, you know. Sherlock Holmes is nothing at all like him. 
+SHERLOCK’s VOICE: How would you describe me, John? Resourceful? Dynamic? Enigmatic? 
+JOHN: Late? 
+SHERLOCK’s VOICE: That’s a semi-automatic. If you fire it, the bullet will travel at over a thousand metres per second. 
+SHAN: Well? 
+SHERLOCK’s VOICE: Well ... the radius curvature of these walls is nearly four metres. If you miss, the bullet will ricochet. Could hit anyone. Might even bounce off the tunnel and hit you. 
+SHERLOCK: It’s all right. You’re gonna be all right. It’s over now. It’s over. 
+JOHN: Don’t worry. Next date won’t be like this. 
+
+SHERLOCK: We’ll just slip off. No need to mention us in your report. 
+DIMMOCK: Mr Holmes ... 
+SHERLOCK: I have high hopes for you, Inspector. A glittering career. 
+DIMMOCK: I go where you point me. 
+SHERLOCK: Exactly. 
+
+JOHN: Ta. So, “Nine mill ...” 
+SHERLOCK: Million. 
+JOHN: Million, yes; “Nine million for jade pin. Dragon den, black Tramway.” 
+SHERLOCK: An instruction to all their London operatives. 
+JOHN: Mmm. 
+SHERLOCK: A message; what they were trying to reclaim. 
+JOHN: What, a jade pin? 
+SHERLOCK: Worth nine million pounds. Bring it to the Tramway, their London hideout. 
+JOHN: Hang on: a hairpin worth nine million pounds? 
+SHERLOCK: Apparently. 
+JOHN: Why so much? 
+SHERLOCK: Depends who owned it. 
+
+SHERLOCK: Two operatives based in London. They travel over to Dalian to smuggle those vases. One of them helps himself to something: a little hairpin. 
+JOHN: Worth nine million pounds. 
+SHERLOCK: Eddie Van Coon was the thief. He stole the treasure when he was in China. 
+JOHN: How d’you know it was Van Coon, not Lukis? Even the killer didn’t know that. 
+SHERLOCK: Because of the soap. 
+
+AMANDA: Amanda. 
+SHERLOCK’s VOICE: He bought you a present. 
+AMANDA: Oh. Hello. 
+SHERLOCK’s VOICE: A little gift when he came back from China. 
+AMANDA: How do you know that? 
+SHERLOCK: You weren’t just his P.A., were you? 
+AMANDA: Someone’s been gossiping. 
+SHERLOCK: No. 
+AMANDA: Then I don’t understand. Why ...? 
+SHERLOCK: Scented hand soap in his apartment. Three hundred millilitres of it. Bottle almost finished. 
+AMANDA: Sorry? 
+SHERLOCK: I don’t think Eddie Van Coon was the type of chap to buy himself hand soap – not unless he had a lady coming over. And it’s the same brand as that hand cream there on your desk. 
+AMANDA: Look, it wasn’t serious between us. It was over in a flash. It couldn’t last – he was my boss. 
+SHERLOCK: What happened? Why did you end it? 
+AMANDA: I thought he didn’t appreciate me. Took me for granted. Stood me up once too often – we’d plan to go away for the weekend and then he’d just leave; fly off to China at a moment’s notice. 
+SHERLOCK: And he brought you a present from abroad to say sorry. Can I ... just have a look at it? 
+
+SEBASTIAN: He really climbed up onto the balcony? 
+JOHN: Nail a plank across the window and all your problems are over. Thanks. 
+
+AMANDA: Said he bought it in a street market. 
+SHERLOCK: Oh, I don’t think that’s true. I think he pinched it. 
+AMANDA: Yeah, that’s Eddie. 
+SHERLOCK: Didn’t know its value; just thought it would suit you. 
+AMANDA: Oh? What’s it worth? 
+SHERLOCK: Nine ... million ... pounds. 
+AMANDA: Oh my God! Oh my G... Nine million! 
+
+JOHN: Over a thousand years old and it’s sitting on her bedside table every night. 
+SHERLOCK: He didn’t know its value; didn’t know why they were chasing him. 
+JOHN: Hmm. Should’ve just got her a lucky cat. 
+SHERLOCK: Hmm. 
+JOHN: You mind, don’t you? 
+SHERLOCK: What? 
+JOHN: That she escaped – General Shan. It’s not enough that we got her two henchmen. 
+SHERLOCK: It must be a vast network, John; thousands of operatives. You and I, we barely scratched the surface. 
+JOHN: You cracked the code, though, Sherlock; and maybe Dimmock can track down all of them now that he knows it. 
+SHERLOCK: No. No. I cracked this code; all the smugglers have to do is pick up another book. 
+
+SHAN: Without you – without your assistance – we would not have found passage into London. You have my thanks. 
+M: GRATITUDE IS MEANINGLESS 
+M: IT IS ONLY THE EXPECTATION OF FURTHER FAVOURS 
+SHAN: We did not anticipate ... we did not know this man would come – this Sherlock Holmes. And now your safety is compromised. 
+M: THEY CANNOT TRACE THIS BACK TO ME 
+SHAN: I will not reveal your identity. 
+M: I AM CERTAIN. 
