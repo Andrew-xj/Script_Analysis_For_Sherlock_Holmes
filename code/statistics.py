@@ -66,8 +66,8 @@ def ScriptNumber(content):
 
 def WordFrequency(content):
     # 统计每个人所用单词的词频，同时获得其在剧中的所有台词的单词总数
-    # 分别存入字典 Person_Word_Number, Person_WordsNumber 中
-    global Person_Word_Number, Person_WordsNumber
+    # 分别存入字典 Person_Word_Number 中
+    global Person_Word_Number
     for line in content:
         script = line.split(':')    # 角色与台词分段
         # 统计单词词频
