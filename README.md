@@ -20,6 +20,10 @@ pip 命令安装即可
   
 # 项目结构简介  
 
+## 流程图  
+![analysis.py](https://github.com/Andrew-xj/Script_Analysis_For_Sherlock_Holmes/tree/master/image/analysis.py)  
+![statistics.py](https://github.com/Andrew-xj/Script_Analysis_For_Sherlock_Holmes/tree/master/image/statistics.py)  
+  
 ## 模块目录  
 ..\code\analysis.py  
 ..\code\statistics.py  
